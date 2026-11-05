@@ -15,6 +15,7 @@ Web app PWA indipendente per allenare la pianificazione spaziale con puzzle orig
 ## Pubblicazione su GitHub Pages
 
 Carica tutti i file di questa cartella **alla radice** di un repository pubblico (ad esempio `motionsprint`), quindi Settings → Pages → Deploy from a branch → `main` e `/ (root)`. Visita `https://TUO-UTENTE.github.io/motionsprint/` dal tablet Huawei o dal PC. Puoi usare un repository distinto da EquaSprint oppure mettere questa cartella in una sottocartella di un repository già esistente. In tal caso il percorso per l'app cambia di conseguenza.
+Applicazione MotionSprint.
 
 ## Regole della simulazione
 
